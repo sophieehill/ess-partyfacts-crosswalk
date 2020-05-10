@@ -4,7 +4,7 @@ A crosswalk linking the party codes used for the vote intention variables in the
 
 This crosswalk is based on the original [ESS-Partyfacts dataset](https://github.com/hdigital/partyfactsdata/blob/master/import/ess/ess-partyfacts.csv), but has been updated to include the codes from ESS Round 8 (2016) and Round 9 (2018).
 
-If you find any errors in the crosswalk, please let me know via [email](sophie.eva.hill@gmail.com) or submit a PR.
+If you find any errors in the crosswalk, please let me know via [email](mailto:sophie.eva.hill@gmail.com) or submit a PR.
 
 
 ## Codebook
