@@ -5,7 +5,7 @@ Codebook
 
 | Variable            | Description                                                                                     |
 |---------------------|-------------------------------------------------------------------------------------------------|
-| cntry               | 2 letter country abbreviation                                                                   |
+| `cntry`               | 2 letter country abbreviation                                                                   |
 | essround            | ESS Round (1-9)                                                                                 |
 | variable            | Name of the ESS vote intention variable (country-round specific)                                |
 | ess_id              | ESS numeric party codes (country-round specific)                                                |
