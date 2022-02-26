@@ -20,6 +20,6 @@ If you find any errors in the crosswalk, please let me know via [email](mailto:s
 | `partyfacts_name`     | Partyfacts abbreviated party name                                                               |
 | `original_partyfacts` | Indicator for whether data comes from original Partyfacts dataset (=1) or was added by me (=0). |
 
-## Notes
+## Acknowledgements
 
-- Germany is not included here because it was not included in the original ESS-Partyfacts crosswalk. In principal it should be straightforward to add the mappings for German parties by hand, since the major parties do already have Partyfacts IDs. This is on my to-do list but if you've already done it please submit a PR and I'd be happy to credit you!
+Thanks to Ryohei Mogi for updating the crosswalk (see `ess-partyfacts-extended-added.csv`) to include mappings for Germany and a few other country-round pairs that were missing!
