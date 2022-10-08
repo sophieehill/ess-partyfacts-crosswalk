@@ -28,6 +28,26 @@
 "AT",3,"prtvtaat",9,"Not applicable",NA,NA
 "AT",3,"prtvtaat",10,"Refusal",NA,NA
 "AT",3,"prtvtaat",11,"Don't know",NA,NA
+"AT",4,"prtvtaat",1,"SPÖ",1384,"SPO"
+"AT",4,"prtvtaat",2,"ÖVP",1329,"OVP"
+"AT",4,"prtvtaat",3,"FPÖ",463,"FPO"
+"AT",4,"prtvtaat",4,"BZÖ",599,"BZO"
+"AT",4,"prtvtaat",5,"Grüne",1659,"Gruene"
+"AT",4,"prtvtaat",6,"LIF",605,"LIF"
+"AT",4,"prtvtaat",7,"KPÖ",996,"KPO"
+"AT",4,"prtvtaat",8,"Andere",NA,NA
+"AT",4,"prtvtaat",77,"Refusal",NA,NA
+"AT",4,"prtvtaat",88,"Don't know",NA,NA
+"AT",5,"prtvtaat",1,"SPO",1384,"SPO"
+"AT",5,"prtvtaat",2,"OVP",1329,"OVP"
+"AT",5,"prtvtaat",3,"FPO",463,"FPO"
+"AT",5,"prtvtaat",4,"BZO",599,"BZO"
+"AT",5,"prtvtaat",5,"Gruene",1659,"Gruene"
+"AT",5,"prtvtaat",6,"LIF",605,"LIF"
+"AT",5,"prtvtaat",7,"KPO",996,"KPO"
+"AT",5,"prtvtaat",8,"Other",NA,NA
+"AT",5,"prtvtaat",77,"Antwort verweigert",NA,NA
+"AT",5,"prtvtaat",88,"weiß nicht",NA,NA
 "AT",7,"prtvtbat",1,"SPÖ",1384,"SPO"
 "AT",7,"prtvtbat",2,"ÖVP",1329,"OVP"
 "AT",7,"prtvtbat",3,"FPÖ",463,"FPO"
@@ -619,6 +639,109 @@
 "CZ",9,"prtvtecz",7,"Česká pirátská strana",2047,"Pi"
 "CZ",9,"prtvtecz",8,"Svoboda a přímá demokracie",6125,"SPD"
 "CZ",9,"prtvtecz",9,"Starostové a nezávislí",1707,"STAN"
+"DE",1,"prtvde2",1,"SPD ",383,"SPD"
+"DE",1,"prtvde2",2,"CDU/CSU",211,"CDU+CSU"
+"DE",1,"prtvde2",3,"Bündnis90\Die Grünen ",1816,"B90/Gru"
+"DE",1,"prtvde2",4,"FDP",573,"FDP"
+"DE",1,"prtvde2",5,"PDS",1545,"PDS|Li"
+"DE",1,"prtvde2",6,"Republican Party (Republikaner)",720,"Rep"
+"DE",1,"prtvde2",7,"Andere Partei ",NA,NA
+"DE",1,"prtvde2",66,"Not applicable ",NA,NA
+"DE",1,"prtvde2",77,"Refusal ",NA,NA
+"DE",1,"prtvde2",88,"Don't know ",NA,NA
+"DE",1,"prtvde2",99,"No answer ",NA,NA
+"DE",2,"prtvade2",1,"Social Democratic Party (SPD) ",383,"SPD"
+"DE",2,"prtvade2",2,"Christian Democratic Union (CDU/CSU) ",211,"CDU+CSU"
+"DE",2,"prtvade2",3,"Green Party (Bündnis 90/Die Grünen) ",1816,"B90/Gru"
+"DE",2,"prtvade2",4,"Liberal Democratic Party (FDP) ",573,"FDP"
+"DE",2,"prtvade2",5,"Party of Democratic Socialism (PDS) ",86,NA
+"DE",2,"prtvade2",6,"Republican Party (Republikaner) ",720,"Rep"
+"DE",2,"prtvade2",7,"National Democratic Party/German People's Union (NPD/DVU) ",NA,NA
+"DE",2,"prtvade2",8,"Other ",NA,NA
+"DE",2,"prtvade2",66,"Not applicable ",NA,NA
+"DE",2,"prtvade2",77,"Refusal ",NA,NA
+"DE",2,"prtvade2",88,"Don't know ",NA,NA
+"DE",2,"prtvade2",99,"No answer ",NA,NA
+"DE",3,"prtvbde2",1,"Social Democratic Party (SPD)",383,"SPD"
+"DE",3,"prtvbde2",2,"Christian Democratic Union (CDU/CSU)",211,"CDU+CSU"
+"DE",3,"prtvbde2",3,"Green Party (Bündnis 90/Die Grünen)",1816,"B90/Gru"
+"DE",3,"prtvbde2",4,"Liberal Democratic Party (FDP)",573,"FDP"
+"DE",3,"prtvbde2",5,"The Left Party.Party of Democratic Socialism (Linkspartei.PDS)",86,NA
+"DE",3,"prtvbde2",6,"Republican Party (Republikaner)",720,"Rep"
+"DE",3,"prtvbde2",7,"National Democratic Party/German People's Union (NPD/DVU)",NA,NA
+"DE",3,"prtvbde2",8,"Other party",NA,NA
+"DE",3,"prtvbde2",66,"Not applicable ",NA,NA
+"DE",3,"prtvbde2",77,"Refusal ",NA,NA
+"DE",3,"prtvbde2",88,"Don't know ",NA,NA
+"DE",3,"prtvbde2",99,"No answer ",NA,NA
+"DE",4,"prtvbde2",1,"Social Democratic Party (SPD)",383,"SPD"
+"DE",4,"prtvbde2",2,"Christian Democratic Union (CDU/CSU)",211,"CDU+CSU"
+"DE",4,"prtvbde2",3,"Green Party (Bündnis 90/Die Grünen)",1816,"B90/Gru"
+"DE",4,"prtvbde2",4,"Liberal Democratic Party (FDP)",573,"FDP"
+"DE",4,"prtvbde2",5,"The Left Party.Party of Democratic Socialism (Linkspartei.PDS)",86,NA
+"DE",4,"prtvbde2",6,"Republican Party (Republikaner)",720,"Rep"
+"DE",4,"prtvbde2",7,"National Democratic Party/German People's Union (NPD/DVU)",NA,NA
+"DE",4,"prtvbde2",8,"Other party",NA,NA
+"DE",4,"prtvbde2",66,"Not applicable ",NA,NA
+"DE",4,"prtvbde2",77,"Refusal ",NA,NA
+"DE",4,"prtvbde2",88,"Don't know ",NA,NA
+"DE",4,"prtvbde2",99,"No answer ",NA,NA
+"DE",5,"prtvcde2",1,"SPD ",383,"SPD"
+"DE",5,"prtvcde2",2,"CDU\CSU ",211,"CDU+CSU"
+"DE",5,"prtvcde2",3,"Bündnis90\Die Grünen ",1816,"B90/Gru"
+"DE",5,"prtvcde2",4,"FPD ",573,"FDP"
+"DE",5,"prtvcde2",5,"Die Linke\PDS ",1545,"PDS|Li"
+"DE",5,"prtvcde2",6,"Die Republikaner ",720,"Rep"
+"DE",5,"prtvcde2",7,"NPD ",1723,"NPD"
+"DE",5,"prtvcde2",8,"Andere Partei ",NA,NA
+"DE",5,"prtvcde2",66,"Not applicable ",NA,NA
+"DE",5,"prtvcde2",77,"Refusal ",NA,NA
+"DE",5,"prtvcde2",88,"Don't know ",NA,NA
+"DE",5,"prtvcde2",99,"No answer ",NA,NA
+"DE",6,"prtvdde2",1,"SPD ",383,"SPD"
+"DE",6,"prtvdde2",2,"CDU/CSU",211,"CDU+CSU"
+"DE",6,"prtvdde2",3,"Bündnis90\Die Grünen ",1816,"B90/Gru"
+"DE",6,"prtvdde2",4,"FDP",573,"FDP"
+"DE",6,"prtvdde2",5,"Die Linke",1545,"PDS|Li"
+"DE",6,"prtvdde2",6,"Die Republikaner ",720,"Rep"
+"DE",6,"prtvdde2",7,"NPD ",1723,"NPD"
+"DE",6,"prtvdde2",8,"Piratenpartei",1287,"Pi"
+"DE",6,"prtvdde2",9,"Andere Partei ",NA,NA
+"DE",6,"prtvdde2",66,"Not applicable ",NA,NA
+"DE",6,"prtvdde2",77,"Refusal ",NA,NA
+"DE",6,"prtvdde2",88,"Don't know ",NA,NA
+"DE",6,"prtvdde2",99,"No answer ",NA,NA
+"DE",7,"prtvede2",1,"CDU/CSU",211,"CDU+CSU"
+"DE",7,"prtvede2",2,"SPD ",383,"SPD"
+"DE",7,"prtvede2",3,"Die Linke",1545,"PDS|Li"
+"DE",7,"prtvede2",4,"Bündnis90\Die Grünen ",1816,"B90/Gru"
+"DE",7,"prtvede2",5,"FDP",573,"FDP"
+"DE",7,"prtvede2",6,"AfD",1976,"AfD"
+"DE",7,"prtvede2",7,"Piratenpartei",1287,"Pi"
+"DE",7,"prtvede2",8,"NPD ",1723,"NPD"
+"DE",7,"prtvede2",9,"Andere Partei ",NA,NA
+"DE",7,"prtvede2",66,"Not applicable ",NA,NA
+"DE",7,"prtvede2",77,"Refusal ",NA,NA
+"DE",7,"prtvede2",88,"Don't know ",NA,NA
+"DE",7,"prtvede2",99,"No answer ",NA,NA
+"DE",8,"prtvede2",1,"Christian Democratic Union/Christian Social Union (CDU/CSU)",211,"CDU+CSU"
+"DE",8,"prtvede2",2,"Social Democratic Party (SPD)",383,"SPD"
+"DE",8,"prtvede2",3,"The Left (Die Linke)",1545,"PDS|Li"
+"DE",8,"prtvede2",4,"Alliance 90/The Greens (Bündnis 90/Die Grünen)",1816,"B90/Gru"
+"DE",8,"prtvede2",5,"Free Democratic Party (FDP)",573,"FDP"
+"DE",8,"prtvede2",6,"Alternative for Germany (AFD)",1976,"AfD"
+"DE",8,"prtvede2",7,"Pirate Party (Piratenpartei)",1287,"Pi"
+"DE",8,"prtvede2",8,"National Democratic Party (NPD)",1723,"NPD"
+"DE",8,"prtvede2",9,"Other",NA,NA
+"DE",9,"prtvede2",1,"Christian Democratic Union/Christian Social Union (CDU/CSU)",211,"CDU+CSU"
+"DE",9,"prtvede2",2,"Social Democratic Party (SPD)",383,"SPD"
+"DE",9,"prtvede2",3,"The Left (Die Linke)",1545,"PDS|Li"
+"DE",9,"prtvede2",4,"Alliance 90/The Greens (Bündnis 90/Die Grünen)",1816,"B90/Gru"
+"DE",9,"prtvede2",5,"Free Democratic Party (FDP)",573,"FDP"
+"DE",9,"prtvede2",6,"Alternative for Germany (AFD)",1976,"AfD"
+"DE",9,"prtvede2",7,"Pirate Party (Piratenpartei)",1287,"Pi"
+"DE",9,"prtvede2",8,"National Democratic Party (NPD)",1723,"NPD"
+"DE",9,"prtvede2",9,"Other",NA,NA
 "DK",1,"prtvtdk",1,"Socialdemokratiet",379,"Sd"
 "DK",1,"prtvtdk",2,"Det Radikale Venstre",1507,"RV"
 "DK",1,"prtvtdk",3,"Det Konservative Folkeparti",536,"KF"
@@ -720,6 +843,17 @@
 "DK",7,"prtvtcdk",12,"Refusal",NA,NA
 "DK",7,"prtvtcdk",13,"Don't know",NA,NA
 "DK",7,"prtvtcdk",14,"No answer",NA,NA
+"DK",9,"prtvtddk",1,"Socialdemokratiet - The Social democrats",379,"Sd"
+"DK",9,"prtvtddk",2,"Det Radikale Venstre - The Radical Liberal Party",1507,"RV"
+"DK",9,"prtvtddk",3,"Det Konservative Folkeparti - Conservative People's Party",536,"KF"
+"DK",9,"prtvtddk",4,"SF Socialistisk Folkeparti - Socialist People's Party",329,"SF"
+"DK",9,"prtvtddk",5,"Dansk Folkeparti - Danish People's Party",1022,"DF"
+"DK",9,"prtvtddk",6,"Kristendemokraterne - Christian Democrats",53,"KrF"
+"DK",9,"prtvtddk",7,"Venstre, Danmarks Liberale Parti - The Liberal Party",1204,"V"
+"DK",9,"prtvtddk",8,"Liberal Alliance - Liberal Alliance",212,"NLA"
+"DK",9,"prtvtddk",9,"Enhedslisten - Unity List - The Red-Green Alliance",1527,"En-O"
+"DK",9,"prtvtddk",10,"Alternativet - The Alternative",NA,NA
+"DK",9,"prtvtddk",11,"Other",NA,NA
 "EE",2,"prtvtee",1,"Party Res Publica",491,"ERP"
 "EE",2,"prtvtee",2,"Estonian Centre Party",533,"EK"
 "EE",2,"prtvtee",3,"Estonian Reform Party",821,"ERe"
@@ -961,6 +1095,29 @@
 "ES",8,"prtvtdes",17,"PNC (Nueva Canaria)",8261,NA
 "ES",8,"prtvtdes",18,"PACMA",3219,"PACMA"
 "ES",8,"prtvtdes",19,"Candidatura d´Unitat Popular - CUP",8357,"CUP"
+"ES",9,"prtvtees",1,"PP",441,"AP-P"
+"ES",9,"prtvtees",2,"PSOE",1338,"PSOE"
+"ES",9,"prtvtees",3,"Unidas Podemos",7656,"UP"
+"ES",9,"prtvtees",4,"Podemos",3203,"P"
+"ES",9,"prtvtees",5,"Ciudadanos",3217,"Cs"
+"ES",9,"prtvtees",6,"IU",247,"PCE|IU"
+"ES",9,"prtvtees",7,"En Comú Podem",8031,"ECP"
+"ES",9,"prtvtees",8,"Más País",8395,NA
+"ES",9,"prtvtees",9,"Compromís",5623,NA
+"ES",9,"prtvtees",10,"ERC",848,"ERC"
+"ES",9,"prtvtees",11,"Junts per Catalunya/PDeCAT",7421,NA
+"ES",9,"prtvtees",12,"Bloque Nacionalista Galego",1011,"BNG"
+"ES",9,"prtvtees",13,"EAJ-PNV",1637,"PNV"
+"ES",9,"prtvtees",14,"EH-Bildu",5668,"EHB"
+"ES",9,"prtvtees",15,"CC-PNC",NA,NA
+"ES",9,"prtvtees",16,"VOX",3218,"Vox"
+"ES",9,"prtvtees",17,"Navarra Suma",NA,NA
+"ES",9,"prtvtees",18,"PACMA",3219,"PACMA"
+"ES",9,"prtvtees",19,"CUP",8357,"CUP"
+"ES",9,"prtvtees",20,"PRC",NA,NA
+"ES",9,"prtvtees",53,"Other",NA,NA
+"ES",9,"prtvtees",54,"Blank vote",NA,NA
+"ES",9,"prtvtees",55,"Invalid vote",NA,NA
 "FI",1,"prtvtfi",1,"The National Coalition Party",495,"KOK"
 "FI",1,"prtvtfi",2,"The Swedish People´s Party (SPP)",1229,"RKP-SFP"
 "FI",1,"prtvtfi",3,"Liberals, (The liberal party of Finland)",249,"KE|SLK"
@@ -1313,6 +1470,26 @@
 "GB",2,"prtvtgb",20,"Not applicable",NA,NA
 "GB",2,"prtvtgb",21,"Refusal",NA,NA
 "GB",2,"prtvtgb",22,"Don't know",NA,NA
+"GB",3,"prtvtagb",1,"Conservative",1567,"Con"
+"GB",3,"prtvtagb",1,"Conservative",1567,"CNL"
+"GB",3,"prtvtagb",1,"Conservative",1567,"Con-18"
+"GB",3,"prtvtagb",2,"Labour",1516,"Lab"
+"GB",3,"prtvtagb",3,"Liberal Democrat",1388,NA
+"GB",3,"prtvtagb",4,"Scottish National Party",986,"SNP"
+"GB",3,"prtvtagb",5,"Plaid Cymru",1002,"Plaid"
+"GB",3,"prtvtagb",6,"Green Party",1794,"GP"
+"GB",3,"prtvtagb",7,"British National Party",855,"BNP"
+"GB",3,"prtvtagb",8,"Uk Independence Party",601,"UKIP"
+"GB",3,"prtvtagb",9,"Independent",NA,NA
+"GB",3,"prtvtagb",10,"Ulster Unionist Party",1366,"UUP"
+"GB",3,"prtvtagb",11,"Democratic Unionist Party",335,"DUP"
+"GB",3,"prtvtagb",12,"Sinn Fein",963,"SF"
+"GB",3,"prtvtagb",13,"Social Democratic and Labour Party",762,"SDLP"
+"GB",3,"prtvtagb",14,"Alliance Party",1477,NA
+"GB",3,"prtvtagb",21,"Other",NA,NA
+"GB",3,"prtvtagb",22,"Not applicable",NA,NA
+"GB",3,"prtvtagb",23,"Refusal",NA,NA
+"GB",3,"prtvtagb",24,"Don't know",NA,NA
 "GB",4,"prtvtgb",1,"Conservative",1567,"Con"
 "GB",4,"prtvtgb",1,"Conservative",1567,"CNL"
 "GB",4,"prtvtgb",1,"Conservative",1567,"Con-18"
@@ -1365,26 +1542,6 @@
 "GB",6,"prtvtgb",20,"Not applicable",NA,NA
 "GB",6,"prtvtgb",21,"Refusal",NA,NA
 "GB",6,"prtvtgb",22,"Don't know",NA,NA
-"GB",3,"prtvtagb",1,"Conservative",1567,"Con"
-"GB",3,"prtvtagb",1,"Conservative",1567,"CNL"
-"GB",3,"prtvtagb",1,"Conservative",1567,"Con-18"
-"GB",3,"prtvtagb",2,"Labour",1516,"Lab"
-"GB",3,"prtvtagb",3,"Liberal Democrat",1388,NA
-"GB",3,"prtvtagb",4,"Scottish National Party",986,"SNP"
-"GB",3,"prtvtagb",5,"Plaid Cymru",1002,"Plaid"
-"GB",3,"prtvtagb",6,"Green Party",1794,"GP"
-"GB",3,"prtvtagb",7,"British National Party",855,"BNP"
-"GB",3,"prtvtagb",8,"Uk Independence Party",601,"UKIP"
-"GB",3,"prtvtagb",9,"Independent",NA,NA
-"GB",3,"prtvtagb",10,"Ulster Unionist Party",1366,"UUP"
-"GB",3,"prtvtagb",11,"Democratic Unionist Party",335,"DUP"
-"GB",3,"prtvtagb",12,"Sinn Fein",963,"SF"
-"GB",3,"prtvtagb",13,"Social Democratic and Labour Party",762,"SDLP"
-"GB",3,"prtvtagb",14,"Alliance Party",1477,NA
-"GB",3,"prtvtagb",21,"Other",NA,NA
-"GB",3,"prtvtagb",22,"Not applicable",NA,NA
-"GB",3,"prtvtagb",23,"Refusal",NA,NA
-"GB",3,"prtvtagb",24,"Don't know",NA,NA
 "GB",7,"prtvtbgb",1,"Conservative",1567,"Con"
 "GB",7,"prtvtbgb",1,"Conservative",1567,"CNL"
 "GB",7,"prtvtbgb",1,"Conservative",1567,"Con-18"
@@ -1511,6 +1668,16 @@
 "HR",5,"prtvthr",13,"Refusal",NA,NA
 "HR",5,"prtvthr",14,"Don't know",NA,NA
 "HR",5,"prtvthr",15,"No answer",NA,NA
+"HR",9,"prtvtahr",1,"Hrvatska demokratska zajednica (HDZ)",1431,"HDZ"
+"HR",9,"prtvtahr",2,"Narodna koalicija - SDP, HNS, HSU, HSS",NA,NA
+"HR",9,"prtvtahr",3,"Most nezavisnih lista (Most)",4865,"Most"
+"HR",9,"prtvtahr",4,"Koalicija Živi zid, Promijenimo Hrvatsku, Abeceda, HDSS",2029,"HDSS"
+"HR",9,"prtvtahr",5,"Koalicija za premijera - BM 365, NS-R, NV-SR, HSSSR, BUZ",NA,NA
+"HR",9,"prtvtahr",6,"Koalicija IDS, PGS, LRI",NA,NA
+"HR",9,"prtvtahr",7,"Koalicija HDSSB-HKS",2347,"HDSSB"
+"HR",9,"prtvtahr",8,"Samostalna demokratska srpska stranka (SDSS)",2348,"SDSS"
+"HR",9,"prtvtahr",9,"Koalicija Pametno i Za grad",NA,NA
+"HR",9,"prtvtahr",10,"Other",NA,NA
 "HU",1,"prtvthu",1,"Center Party",1779,NA
 "HU",1,"prtvthu",2,"FYD-HDF Fed.of Young Democrats&Hungarian Dem.Forum",1697,"MDF"
 "HU",1,"prtvthu",3,"ISHP-Independent Small Holders",1294,"FKgP"
@@ -1886,6 +2053,21 @@
 "IS",8,"prtvtbis",10,"Vinstri hreyfinguna - grænt framboð",457,"Graen"
 "IS",8,"prtvtbis",11,"Pírata",2048,"Pi"
 "IS",8,"prtvtbis",12,"Viðreisn",5454,"V"
+"IS",9,"prtvtcis",1,"Sjálfstæ∂isflokkinn",363,"Sj"
+"IS",9,"prtvtcis",2,"Framsóknarflokkinn",964,"F"
+"IS",9,"prtvtcis",3,"Vinstri hreyfinguna - grænt frambo∂",457,"Graen"
+"IS",9,"prtvtcis",4,"Samfylkinguna",1396,"Sam"
+"IS",9,"prtvtcis",5,"Bjarta framtí∂",2517,"BF"
+"IS",9,"prtvtcis",6,"Pírata",2048,"Pi"
+"IS",9,"prtvtcis",7,"Vi∂reisn",5454,"V"
+"IS",9,"prtvtcis",8,"Mi∂flokkinn",7565,"M"
+"IS",9,"prtvtcis",9,"Dögun",2518,"Dawn"
+"IS",9,"prtvtcis",10,"Alþý∂ufylkinguna",NA,NA
+"IS",9,"prtvtcis",11,"Húmanistaflokkinn",NA,NA
+"IS",9,"prtvtcis",12,"Flokk fólksins",5852,"FlF"
+"IS",9,"prtvtcis",13,"íslensku  þjó∂fylkinguna",NA,NA
+"IS",9,"prtvtcis",14,"Blank paper",NA,NA
+"IS",9,"prtvtcis",15,"Other",NA,NA
 "IT",1,"prtvtit",1,"Democratici di Sinistra",878,"DS"
 "IT",1,"prtvtit",2,"La Margherita",279,"DL-M"
 "IT",1,"prtvtit",3,"Comunisti Italiani",1635,"PdCI"
@@ -1971,6 +2153,134 @@
 "IT",9,"prtvtcit",11,"Noi con l'Italia - UDC",6158,NA
 "IT",9,"prtvtcit",12,"Potere al popolo",8247,NA
 "IT",9,"prtvtcit",13,"Casapound Italia",8244,NA
+"LT",4,"prtvlt1",1,"Lietuvos socialdemokratų partija",64,"LSDP"
+"LT",4,"prtvlt1",1,"Lietuvos socialdemokratų partija",64,"LSDP-89"
+"LT",4,"prtvlt1",2,"Lietuvos rusų sąjunga",168,"LRS"
+"LT",4,"prtvlt1",3,"„Fronto“ partija",1250,"SPF"
+"LT",4,"prtvlt1",4,"Lietuvos centro partija",5455,"LCP"
+"LT",4,"prtvlt1",5,"Tėvynės sąjunga – Lietuvos krikščionys demokratai",193,"TS-LK"
+"LT",4,"prtvlt1",6,"Naujoji sąjunga (socialliberalai)",1800,"NS-SL"
+"LT",4,"prtvlt1",7,"Pilietinės demokratijos partija",105,"PDP"
+"LT",4,"prtvlt1",8,"Lietuvos lenkų rinkimų akcija",556,"LLRA"
+"LT",4,"prtvlt1",9,"Tautos prisikėlimo partija",347,"TPP"
+"LT",4,"prtvlt1",10,"Koalicija Darbo partija + jaunimas",8279,NA
+"LT",4,"prtvlt1",11,"Lietuvos Respublikos liberalų sąjūdis",1744,"LRLS"
+"LT",4,"prtvlt1",12,"Lietuvos valstiečių liaudininkų sąjunga",1490,"LVLS"
+"LT",4,"prtvlt1",13,"Partija Tvarka ir teisingumas",237,"TT-LDP"
+"LT",4,"prtvlt1",14,"Liberalų ir centro sąjunga",1193,"LiCS"
+"LT",4,"prtvlt1",15,"Partija „Jaunoji Lietuva“",1026,"JL"
+"LT",4,"prtvlt1",16,"Lietuvos socialdemokratų sąjunga",8258,NA
+"LT",4,"prtvlt1",77,"Atsisakė nurodyti",NA,NA
+"LT",4,"prtvlt1",88,"Nežino",NA,NA
+"LT",5,"prtvb1",1,"Lietuvos socialdemokratu partija",64,"LSDP"
+"LT",5,"prtvb1",1,"Lietuvos socialdemokratu partija",64,"LSDP-89"
+"LT",5,"prtvb1",2,"Lietuvos rusu sajunga",168,"LRS"
+"LT",5,"prtvb1",3,"Fronto partija",1250,"SPF"
+"LT",5,"prtvb1",4,"Lietuvos centro partija",5455,"LCP"
+"LT",5,"prtvb1",5,"Tevynes sajunga – Lietuvos krikscionys demokratai",193,"TS-LK"
+"LT",5,"prtvb1",6,"Naujoji sajunga (socialliberalai)",1800,"NS-SL"
+"LT",5,"prtvb1",7,"Pilietines demokratijos partija",105,"PDP"
+"LT",5,"prtvb1",8,"Lietuvos lenku rinkimu akcija",556,"LLRA"
+"LT",5,"prtvb1",9,"Tautos prisikelimo partija",347,"TPP"
+"LT",5,"prtvb1",10,"Koalicija Darbo partija + jaunimas",8279,NA
+"LT",5,"prtvb1",11,"Lietuvos Respublikos liberalu sajudis",1744,"LRLS"
+"LT",5,"prtvb1",12,"Lietuvos valstieciu liaudininku sajunga",1490,"LVLS"
+"LT",5,"prtvb1",13,"Partija Tvarka ir teisingumas",237,"TT-LDP"
+"LT",5,"prtvb1",14,"Liberalu ir centro sajunga",1193,"LiCS"
+"LT",5,"prtvb1",15,"Partija Jaunoji Lietuva",1026,"JL"
+"LT",5,"prtvb1",16,"Lietuvos socialdemokratu sajunga",8258,NA
+"LT",5,"prtvb1",17,"Lietuvos laisves sajunga",1410,"LLaS"
+"LT",5,"prtvb1",18,"Lietuvos liaudies sajunga Uz teisinga Lietuva",1409,"UTL"
+"LT",6,"prtvalt1",1,"Lietuvos Respublikos liberalų sąjūdis",1744,"LRLS"
+"LT",6,"prtvalt1",2,"Respublikonų partija",NA,NA
+"LT",6,"prtvalt1",3,"Darbo partija",102,"DP"
+"LT",6,"prtvalt1",4,"Demokratinė darbo ir vienybės partija",NA,NA
+"LT",6,"prtvalt1",5,"Tėvynės sąjunga - Lietuvos krikščionys demokratai",193,"TS-LK"
+"LT",6,"prtvalt1",6,"„Drąsos kelias“ politinė partija",74,"DK"
+"LT",6,"prtvalt1",7,"Lietuvos lenkų rinkimų akcija",556,"LLRA"
+"LT",6,"prtvalt1",8,"Lietuvos socialdemokratų partija",64,"LSDP"
+"LT",6,"prtvalt1",8,"Lietuvos socialdemokratų partija",64,"LSDP-89"
+"LT",6,"prtvalt1",9,"Partija Tvarka ir teisingumas",237,"TT-LDP"
+"LT",6,"prtvalt1",10,"Nacionalinis susivienijimas „Už Lietuvą Lietuvoje“ (Lietuvos
+centro partijos, Lietuvos socialdemokratų sąjungos, Tautininkų
+sąjungos ir Tautos vienybės sąjungos koalicija)",8257,NA
+"LT",6,"prtvalt1",11,"Krikščionių partija",8254,NA
+"LT",6,"prtvalt1",12,"Lietuvos žmonių partija",1407,"LZP"
+"LT",6,"prtvalt1",13,"Socialistinis liaudies Frontas",1250,"SPF"
+"LT",6,"prtvalt1",14,"Lietuvos valstiečių ir žaliųjų sąjunga",1490,"LVLS"
+"LT",6,"prtvalt1",15,"Partija „Jaunoji Lietuva“",1026,"JL"
+"LT",6,"prtvalt1",16,"Liberalų ir centro sąjunga",1193,"LiCS"
+"LT",6,"prtvalt1",17,"Emigrantų partija",NA,NA
+"LT",6,"prtvalt1",18,"Politinė partija „Sąjunga Taip“",NA,NA
+"LT",6,"prtvalt1",77,"(Atsisakau atsakyti)",NA,NA
+"LT",6,"prtvalt1",88,"(Nežinau)",NA,NA
+"LT",7,"prtvalt1",1,"Lietuvos Respublikos liberalų sąjūdis",1744,"LRLS"
+"LT",7,"prtvalt1",2,"Respublikonų partija",NA,NA
+"LT",7,"prtvalt1",3,"Darbo partija",102,"DP"
+"LT",7,"prtvalt1",4,"Demokratinė darbo ir vienybės partija",NA,NA
+"LT",7,"prtvalt1",5,"Tėvynės sąjunga - Lietuvos krikščionys demokratai",193,"TS-LK"
+"LT",7,"prtvalt1",6,"„Drąsos kelias“ politinė partija",74,"DK"
+"LT",7,"prtvalt1",7,"Lietuvos lenkų rinkimų akcija",556,"LLRA"
+"LT",7,"prtvalt1",8,"Lietuvos socialdemokratų partija",64,"LSDP"
+"LT",7,"prtvalt1",8,"Lietuvos socialdemokratų partija",64,"LSDP-89"
+"LT",7,"prtvalt1",9,"Partija Tvarka ir teisingumas",237,"TT-LDP"
+"LT",7,"prtvalt1",10,"Nacionalinis susivienijimas „Už Lietuvą Lietuvoje“ (Lietuvos
+centro partijos, Lietuvos socialdemokratų sąjungos, Tautininkų
+sąjungos ir Tautos vienybės sąjungos koalicija)",8257,NA
+"LT",7,"prtvalt1",11,"Krikščionių partija",8254,NA
+"LT",7,"prtvalt1",12,"Lietuvos žmonių partija",1407,"LZP"
+"LT",7,"prtvalt1",13,"Socialistinis liaudies Frontas",1250,"SPF"
+"LT",7,"prtvalt1",14,"Lietuvos valstiečių ir žaliųjų sąjunga",1490,"LVLS"
+"LT",7,"prtvalt1",15,"Partija „Jaunoji Lietuva“",1026,"JL"
+"LT",7,"prtvalt1",16,"Liberalų ir centro sąjunga",1193,"LiCS"
+"LT",7,"prtvalt1",17,"Emigrantų partija",NA,NA
+"LT",7,"prtvalt1",18,"Politinė partija „Sąjunga Taip“",NA,NA
+"LT",7,"prtvalt1",77,"(Atsisakau atsakyti)",NA,NA
+"LT",7,"prtvalt1",88,"(Nežinau)",NA,NA
+"LT",8,"prtvblt1",1,"Lithuanian Social Democratic Party (LSDP)",64,"LSDP"
+"LT",8,"prtvblt1",1,"Lithuanian Social Democratic Party (LSDP)",64,"LSDP-89"
+"LT",8,"prtvblt1",2,"Homeland Union - Lithuanian Christian Democrats
+(TS-LKD)",193,"TS-LK"
+"LT",8,"prtvblt1",3,"Lithuanian Freedom Union (Liberals) (LLSL)",5456,"LLS"
+"LT",8,"prtvblt1",4,"Coalition of S. Buškevičius and the Nationalists
+'Against corruption and poverty' (Party 'Young
+Lithuania', Nationalis",NA,NA
+"LT",8,"prtvblt1",5,"Party Order and Justice (TT)",237,"TT-LDP"
+"LT",8,"prtvblt1",6,"Lithuanian Peasant and Greens Union (LVZS)",1490,"LVLS"
+"LT",8,"prtvblt1",7,"Liberals' Movement of the Republic of Lithuania
+(LRLS)",1744,"LRLS"
+"LT",8,"prtvblt1",8,"Labour Party (DP)",102,"DP"
+"LT",8,"prtvblt1",9,"Political Party 'The Way of Courage' (DK)",74,"DK"
+"LT",8,"prtvblt1",10,"Lithuanian People's Party (LLP)",8256,NA
+"LT",8,"prtvblt1",11,"Electoral Action of Poles in Lithuania-Christian
+Families Alliance (LLRA-KSS)",556,"LLRA"
+"LT",8,"prtvblt1",12,"Lithuanian Greens Party (LZP)",1407,"LZP"
+"LT",8,"prtvblt1",13,"Political Party 'List of Lithuania' (LS)",6738,NA
+"LT",8,"prtvblt1",14,"Anti-corruption coalition of K. Krivickas and N.
+Puteikis (Lithuanian Centre Party, Lithuanian
+Pensioners' Party) (APKK)",NA,NA
+"LT",9,"prtvblt1",1,"Lithuanian Social Democratic Party (LSDP)",64,"LSDP"
+"LT",9,"prtvblt1",1,"Lithuanian Social Democratic Party (LSDP)",64,"LSDP-89"
+"LT",9,"prtvblt1",2,"Homeland Union - Lithuanian Christian Democrats
+(TS-LKD)",193,"TS-LK"
+"LT",9,"prtvblt1",3,"Lithuanian Freedom Union (Liberals) (LLSL)",5456,"LLS"
+"LT",9,"prtvblt1",4,"Coalition of S. Buškevičius and the Nationalists
+'Against corruption and poverty' (Party 'Young
+Lithuania', Nationalis",NA,NA
+"LT",9,"prtvblt1",5,"Party Order and Justice (TT)",237,"TT-LDP"
+"LT",9,"prtvblt1",6,"Lithuanian Peasant and Greens Union (LVZS)",1490,"LVLS"
+"LT",9,"prtvblt1",7,"Liberals' Movement of the Republic of Lithuania
+(LRLS)",1744,"LRLS"
+"LT",9,"prtvblt1",8,"Labour Party (DP)",102,"DP"
+"LT",9,"prtvblt1",9,"Political Party 'The Way of Courage' (DK)",74,"DK"
+"LT",9,"prtvblt1",10,"Lithuanian People's Party (LLP)",8256,NA
+"LT",9,"prtvblt1",11,"Electoral Action of Poles in Lithuania-Christian
+Families Alliance (LLRA-KSS)",556,"LLRA"
+"LT",9,"prtvblt1",12,"Lithuanian Greens Party (LZP)",1407,"LZP"
+"LT",9,"prtvblt1",13,"Political Party 'List of Lithuania' (LS)",6738,NA
+"LT",9,"prtvblt1",14,"Anti-corruption coalition of K. Krivickas and N.
+Puteikis (Lithuanian Centre Party, Lithuanian
+Pensioners' Party) (APKK)",NA,NA
 "LU",1,"prtvtlu",1,"Parti Chrétien Social (PCS)",539,"CSV"
 "LU",1,"prtvtlu",2,"Parti Socialiste Ouvrier Luxembourgeois (PSOL)",186,"LSAP"
 "LU",1,"prtvtlu",3,"Parti Démocrate (PD)",300,"DP"
@@ -1993,6 +2303,33 @@
 "LU",2,"prtvtlu",9,"Refusal",NA,NA
 "LU",2,"prtvtlu",10,"Don't know",NA,NA
 "LU",2,"prtvtlu",11,"No answer",NA,NA
+"LV",4,"prtvtlv",1,"Tautas partija",1755,"TP"
+"LV",4,"prtvtlv",2,"Zaļo un Zemnieku savienība",701,"ZZS"
+"LV",4,"prtvtlv",3,"Jaunais laiks",1531,"JL"
+"LV",4,"prtvtlv",4,"“Saskaņas Centrs”",1056,"S"
+"LV",4,"prtvtlv",5,"Latvijas Pirmās partijas un partijas “Latvijas Ceļš” vēlēšanu apvienība",461,"LPP/LC"
+"LV",4,"prtvtlv",6,"Apvienība “Tēvzemei un Brīvībai”/LNNK",1704,"NA/TB/LNNK"
+"LV",4,"prtvtlv",7,"Politisko organizāciju apvienība “Par cilvēka tiesībām vienotā Latvijā”",176,"PCTVL"
+"LV",4,"prtvtlv",8,"Par citu partiju",NA,NA
+"LV",4,"prtvtlv",77,"Atteicās atbildēt",NA,NA
+"LV",4,"prtvtlv",88,"GP",NA,NA
+"LV",9,"prtvtalv",1,"Latvijas Krievu savienība",5657,NA
+"LV",9,"prtvtalv",2,"Jaunā konservatīvā partija",1632,"JP"
+"LV",9,"prtvtalv",3,"Rīcības partija",NA,NA
+"LV",9,"prtvtalv",4,"Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK'",NA,NA
+"LV",9,"prtvtalv",5,"Progresīvie",6357,"P"
+"LV",9,"prtvtalv",6,"Latvijas centriskā partija",NA,NA
+"LV",9,"prtvtalv",7,"LSDSP/KDS/GKL",NA,NA
+"LV",9,"prtvtalv",8,"No sirds Latvijai",3193,"NsL"
+"LV",9,"prtvtalv",9,"Sociāldemokrātiskā partija 'Saskaņa'",5976,NA
+"LV",9,"prtvtalv",10,"Attīstībai/Par!",8393,NA
+"LV",9,"prtvtalv",11,"Latvijas Reģionu Apvienība",3194,"LRa"
+"LV",9,"prtvtalv",12,"Latviešu Nacionālisti",1789,"LNNK"
+"LV",9,"prtvtalv",13,"Jaunā Vienotība",NA,NA
+"LV",9,"prtvtalv",14,"Par alternatīvu",3214,"PPA"
+"LV",9,"prtvtalv",15,"Politiskā partija KPV LV",6356,"KPV-LV"
+"LV",9,"prtvtalv",16,"Zaļo un Zemnieku savienība",701,"ZZS"
+"LV",9,"prtvtalv",17,"Other",NA,NA
 "NL",1,"prtvtnl",1,"Christian Democratic Party",1157,"CDA"
 "NL",1,"prtvtnl",2,"Labour Party",1234,"PvdA"
 "NL",1,"prtvtnl",3,"Party for Freedom and Democracy",828,"VVD"
@@ -2463,6 +2800,58 @@
 "PT",8,"prtvtcpt",14,"PURP - Partido Unido dos Reformados e Pensionistas",NA,NA
 "PT",8,"prtvtcpt",15,"PAN - Pessoas-Animais-Natureza",97,"PAN"
 "PT",8,"prtvtcpt",16,"PPD-PSD/CDS-PP - Portugal à Frente",5939,NA
+"PT",9,"prtvtcpt",1,"PTP-MAS - Agir",NA,NA
+"PT",9,"prtvtcpt",2,"B.E. - Bloco de Esquerda",1310,"BE"
+"PT",9,"prtvtcpt",3,"PCP-PEV - CDU - Coliga  o Democr tica Unit ria",284,"CDU"
+"PT",9,"prtvtcpt",4,"JPP - Juntos pelo Povo",NA,NA
+"PT",9,"prtvtcpt",5,"L/TDA - LIVRE/Tempo de Avan ar",3255,NA
+"PT",9,"prtvtcpt",6,"NC - N s, Cidad os!",7358,"NC"
+"PT",9,"prtvtcpt",7,"PPV/CDC - Partido Cidadania e Democracia Crist ",NA,NA
+"PT",9,"prtvtcpt",8,"PCTP/MRPP - Partido Comunista dos Trabalhadores Portugueses",857,"PCTP/MRPP"
+"PT",9,"prtvtcpt",9,"MPT - Partido da Terra",3226,"MPT"
+"PT",9,"prtvtcpt",10,"PDR - Partido Democr tico Republicano",4513,"PDR"
+"PT",9,"prtvtcpt",11,"PNR - Partido Nacional Renovador",6313,NA
+"PT",9,"prtvtcpt",12,"PPM - Partido Popular Mon rquico",1480,"PPM"
+"PT",9,"prtvtcpt",13,"PS - Partido Socialista",655,"PS"
+"PT",9,"prtvtcpt",14,"PURP - Partido Unido dos Reformados e Pensionistas",NA,NA
+"PT",9,"prtvtcpt",15,"PAN - Pessoas-Animais-Natureza",97,"PAN"
+"PT",9,"prtvtcpt",16,"PPD-PSD/CDS-PP - Portugal   Frente",5939,NA
+"PT",9,"prtvtcpt",17,"Votou em branco/ nulo",NA,NA
+"PT",9,"prtvtcpt",18,"Other",NA,NA
+"RO",4,"prtvtaro",1,"PD-L",660,"PD-L"
+"RO",4,"prtvtaro",2,"Alianta PSD-P",120,"PSD"
+"RO",4,"prtvtaro",3,"PNL",874,"PLD"
+"RO",4,"prtvtaro",4,"PRM",1305,"PRM"
+"RO",4,"prtvtaro",5,"UDMR",1105,"UDMR"
+"RO",4,"prtvtaro",6,"PNG-CD",296,"PNG-CD"
+"RO",4,"prtvtaro",9,"PNTCD",1750,"PNT-CD"
+"RO",4,"prtvtaro",11,"Other: PR",NA,NA
+"RO",4,"prtvtaro",12,"Other: PIN",NA,NA
+"RO",4,"prtvtaro",13,"Other: FDGR",NA,NA
+"RO",4,"prtvtaro",66,"Not applicable",NA,NA
+"RO",4,"prtvtaro",77,"Refusal",NA,NA
+"RO",4,"prtvtaro",88,"Don't know",NA,NA
+"RO",4,"prtvtaro",99,"No answer",NA,NA
+"RS",9,"prtvtrs",1,"Aleksandar Vučić-Srbija pobeđuje",NA,NA
+"RS",9,"prtvtrs",2,"Boris Tadic, Cedomir Jovanovic - Savez za bolju
+Srbiju - LDP, LSV, SDS",NA,NA
+"RS",9,"prtvtrs",3,"Borko Stefanović - Srbija za sve nas",NA,NA
+"RS",9,"prtvtrs",4,"Dosta je bilo - Saša Radulović",5379,NA
+"RS",9,"prtvtrs",5,"Dr Vojislav Šešelj - Srpska radikalna stranka",2175,NA
+"RS",9,"prtvtrs",6,"Dveri - Demokratska stranka Srbije - Sanda
+Rašković Ivić - Boško Obradović",8627,NA
+"RS",9,"prtvtrs",7,"Ivica Dačić - ''Socijalistička partija Srbije (SPS),
+Jedinstvena Srbija (JS)-Dragan Marković Palma",NA,NA
+"RS",9,"prtvtrs",8,"Muamer Zukorlić - Bošnjačka demokratska
+zajednica Sandžak",3173,NA
+"RS",9,"prtvtrs",9,"Partija za demokratsko delovanje - Ardita Sinani/
+Partia për vertim demokratik - Ardita Sinani",2199,NA
+"RS",9,"prtvtrs",10,"SDA Sandžaka - Dr. Sulejman Ugljanin",3176,NA
+"RS",9,"prtvtrs",11,"Vajdasági Magyar Szövetség-Pásztor István - Savez
+vojvođanskih Mađara - Ištvan Pastor",2203,NA
+"RS",9,"prtvtrs",12,"Za pravednu Srbiju - Demokratska stranka (NOVA,
+DSHV, ZZS)",NA,NA
+"RS",9,"prtvtrs",13,"Other",NA,NA
 "RU",3,"prtvtru",1,"United Russia (ER)",2256,NA
 "RU",3,"prtvtru",2,"Communist Party of the Russian Federation (KPRF)",2236,NA
 "RU",3,"prtvtru",3,"Liberal Democratic Party of Russia (LDPR)",2245,NA
@@ -2627,6 +3016,16 @@
 "SE",8,"prtvtbse",12,"Not applicable",NA,NA
 "SE",8,"prtvtbse",13,"Refusal",NA,NA
 "SE",8,"prtvtbse",14,"Don't know",NA,NA
+"SE",9,"prtvtcse",1,"Centern",7415,NA
+"SE",9,"prtvtcse",2,"Folkpartiet liberalerna",1274,"FP"
+"SE",9,"prtvtcse",3,"Kristdemokraterna",651,"KD"
+"SE",9,"prtvtcse",4,"Miljöpartiet de gröna",456,"MP"
+"SE",9,"prtvtcse",5,"Moderata samlingspartiet",690,"M"
+"SE",9,"prtvtcse",6,"Socialdemokraterna",487,"SAP"
+"SE",9,"prtvtcse",7,"Vänsterpartiet",830,"V"
+"SE",9,"prtvtcse",8,"FI (Feministiskt initiativ)",1240,"Fi"
+"SE",9,"prtvtcse",9,"Sverigedemokraterna",409,"SD"
+"SE",9,"prtvtcse",10,"Annat parti",NA,NA
 "SI",1,"prtvtsi",1,"Democratic Party of Pensioners of Slovenia (DESUS)",467,"DeSUS"
 "SI",1,"prtvtsi",2,"Liberal Democracy of Slovenia (LDS)",975,"LDS"
 "SI",1,"prtvtsi",3,"Slovene People's Party (SLS)",764,"SLS"
@@ -2801,6 +3200,15 @@
 "SK",6,"prtvtcsk",9,"Refusal",NA,NA
 "SK",6,"prtvtcsk",10,"Don't know",NA,NA
 "SK",6,"prtvtcsk",11,"No answer",NA,NA
+"SK",9,"prtvtdsk",1,"Obyčajní Ľudia a nezávislé osobnosti",2130,"OLaNO"
+"SK",9,"prtvtdsk",2,"Slovenská národná strana (SNS)",730,"SNS"
+"SK",9,"prtvtdsk",3,"Smer – SD",311,"Smer"
+"SK",9,"prtvtdsk",4,"Most–H d",258,"MH"
+"SK",9,"prtvtdsk",5,"ĽS Naše Slovensko",656,"LsNS"
+"SK",9,"prtvtdsk",6,"Sloboda a Solidarita (SaS)",1386,"SaS"
+"SK",9,"prtvtdsk",7,"Sieť",4872,"S"
+"SK",9,"prtvtdsk",8,"SME Rodina",4873,"SR"
+"SK",9,"prtvtdsk",9,"Other",NA,NA
 "TR",2,"prtvttr",1,"AKP-Adalet ve Kalkinma Partisi",306,"AKP"
 "TR",2,"prtvttr",2,"ANAP-Anavatan Partisi",1190,"ANAP"
 "TR",2,"prtvttr",3,"BBP-Buyuk Birlik Partisi",1330,"BBP"
@@ -2919,271 +3327,3 @@
 "UA",6,"prtvtcua",8,"Refusal",NA,NA
 "UA",6,"prtvtcua",9,"Don't know",NA,NA
 "UA",6,"prtvtcua",10,"No answer",NA,NA
-"DK",9,"prtvtddk",1,"Socialdemokratiet - The Social democrats",379,"Sd"
-"DK",9,"prtvtddk",2,"Det Radikale Venstre - The Radical Liberal Party",1507,"RV"
-"DK",9,"prtvtddk",3,"Det Konservative Folkeparti - Conservative People's Party",536,"KF"
-"DK",9,"prtvtddk",4,"SF Socialistisk Folkeparti - Socialist People's Party",329,"SF"
-"DK",9,"prtvtddk",5,"Dansk Folkeparti - Danish People's Party",1022,"DF"
-"DK",9,"prtvtddk",6,"Kristendemokraterne - Christian Democrats",53,"KrF"
-"DK",9,"prtvtddk",7,"Venstre, Danmarks Liberale Parti - The Liberal Party",1204,"V"
-"DK",9,"prtvtddk",8,"Liberal Alliance - Liberal Alliance",212,"NLA"
-"DK",9,"prtvtddk",9,"Enhedslisten - Unity List - The Red-Green Alliance",1527,"En-O"
-"DK",9,"prtvtddk",10,"Alternativet - The Alternative",NA,NA
-"DK",9,"prtvtddk",11,"Other",NA,NA
-"HR",9,"prtvtahr",1,"Hrvatska demokratska zajednica (HDZ)",1431,"HDZ"
-"HR",9,"prtvtahr",2,"Narodna koalicija - SDP, HNS, HSU, HSS",NA,NA
-"HR",9,"prtvtahr",3,"Most nezavisnih lista (Most)",4865,"Most"
-"HR",9,"prtvtahr",4,"Koalicija Živi zid, Promijenimo Hrvatsku, Abeceda, HDSS",2029,"HDSS"
-"HR",9,"prtvtahr",5,"Koalicija za premijera - BM 365, NS-R, NV-SR, HSSSR, BUZ",NA,NA
-"HR",9,"prtvtahr",6,"Koalicija IDS, PGS, LRI",NA,NA
-"HR",9,"prtvtahr",7,"Koalicija HDSSB-HKS",2347,"HDSSB"
-"HR",9,"prtvtahr",8,"Samostalna demokratska srpska stranka (SDSS)",2348,"SDSS"
-"HR",9,"prtvtahr",9,"Koalicija Pametno i Za grad",NA,NA
-"HR",9,"prtvtahr",10,"Other",NA,NA
-"IS",9,"prtvtcis",1,"Sjálfstæ∂isflokkinn",363,"Sj"
-"IS",9,"prtvtcis",2,"Framsóknarflokkinn",964,"F"
-"IS",9,"prtvtcis",3,"Vinstri hreyfinguna - grænt frambo∂",457,"Graen"
-"IS",9,"prtvtcis",4,"Samfylkinguna",1396,"Sam"
-"IS",9,"prtvtcis",5,"Bjarta framtí∂",2517,"BF"
-"IS",9,"prtvtcis",6,"Pírata",2048,"Pi"
-"IS",9,"prtvtcis",7,"Vi∂reisn",5454,"V"
-"IS",9,"prtvtcis",8,"Mi∂flokkinn",7565,"M"
-"IS",9,"prtvtcis",9,"Dögun",2518,"Dawn"
-"IS",9,"prtvtcis",10,"Alþý∂ufylkinguna",NA,NA
-"IS",9,"prtvtcis",11,"Húmanistaflokkinn",NA,NA
-"IS",9,"prtvtcis",12,"Flokk fólksins",5852,"FlF"
-"IS",9,"prtvtcis",13,"íslensku  þjó∂fylkinguna",NA,NA
-"IS",9,"prtvtcis",14,"Blank paper",NA,NA
-"IS",9,"prtvtcis",15,"Other",NA,NA
-"LV",9,"prtvtalv",1,"Latvijas Krievu savienība",5657,NA
-"LV",9,"prtvtalv",2,"Jaunā konservatīvā partija",1632,"JP"
-"LV",9,"prtvtalv",3,"Rīcības partija",NA,NA
-"LV",9,"prtvtalv",4,"Nacionālā apvienība 'Visu Latvijai!' - 'Tēvzemei un Brīvībai/LNNK'",NA,NA
-"LV",9,"prtvtalv",5,"Progresīvie",6357,"P"
-"LV",9,"prtvtalv",6,"Latvijas centriskā partija",NA,NA
-"LV",9,"prtvtalv",7,"LSDSP/KDS/GKL",NA,NA
-"LV",9,"prtvtalv",8,"No sirds Latvijai",3193,"NsL"
-"LV",9,"prtvtalv",9,"Sociāldemokrātiskā partija 'Saskaņa'",5976,NA
-"LV",9,"prtvtalv",10,"Attīstībai/Par!",8393,NA
-"LV",9,"prtvtalv",11,"Latvijas Reģionu Apvienība",3194,"LRa"
-"LV",9,"prtvtalv",12,"Latviešu Nacionālisti",1789,"LNNK"
-"LV",9,"prtvtalv",13,"Jaunā Vienotība",NA,NA
-"LV",9,"prtvtalv",14,"Par alternatīvu",3214,"PPA"
-"LV",9,"prtvtalv",15,"Politiskā partija KPV LV",6356,"KPV-LV"
-"LV",9,"prtvtalv",16,"Zaļo un Zemnieku savienība",701,"ZZS"
-"LV",9,"prtvtalv",17,"Other",NA,NA
-"PT",9,"prtvtcpt",1,"PTP-MAS - Agir",NA,NA
-"PT",9,"prtvtcpt",2,"B.E. - Bloco de Esquerda",1310,"BE"
-"PT",9,"prtvtcpt",3,"PCP-PEV - CDU - Coliga  o Democr tica Unit ria",284,"CDU"
-"PT",9,"prtvtcpt",4,"JPP - Juntos pelo Povo",NA,NA
-"PT",9,"prtvtcpt",5,"L/TDA - LIVRE/Tempo de Avan ar",3255,NA
-"PT",9,"prtvtcpt",6,"NC - N s, Cidad os!",7358,"NC"
-"PT",9,"prtvtcpt",7,"PPV/CDC - Partido Cidadania e Democracia Crist ",NA,NA
-"PT",9,"prtvtcpt",8,"PCTP/MRPP - Partido Comunista dos Trabalhadores Portugueses",857,"PCTP/MRPP"
-"PT",9,"prtvtcpt",9,"MPT - Partido da Terra",3226,"MPT"
-"PT",9,"prtvtcpt",10,"PDR - Partido Democr tico Republicano",4513,"PDR"
-"PT",9,"prtvtcpt",11,"PNR - Partido Nacional Renovador",6313,NA
-"PT",9,"prtvtcpt",12,"PPM - Partido Popular Mon rquico",1480,"PPM"
-"PT",9,"prtvtcpt",13,"PS - Partido Socialista",655,"PS"
-"PT",9,"prtvtcpt",14,"PURP - Partido Unido dos Reformados e Pensionistas",NA,NA
-"PT",9,"prtvtcpt",15,"PAN - Pessoas-Animais-Natureza",97,"PAN"
-"PT",9,"prtvtcpt",16,"PPD-PSD/CDS-PP - Portugal   Frente",5939,NA
-"PT",9,"prtvtcpt",17,"Votou em branco/ nulo",NA,NA
-"PT",9,"prtvtcpt",18,"Other",NA,NA
-"RO",4,"prtvtaro",1,"PD-L",660,"PD-L"
-"RO",4,"prtvtaro",2,"Alianta PSD-P",120,"PSD"
-"RO",4,"prtvtaro",3,"PNL",874,"PLD"
-"RO",4,"prtvtaro",4,"PRM",1305,"PRM"
-"RO",4,"prtvtaro",5,"UDMR",1105,"UDMR"
-"RO",4,"prtvtaro",6,"PNG-CD",296,"PNG-CD"
-"RO",4,"prtvtaro",9,"PNTCD",1750,"PNT-CD"
-"RO",4,"prtvtaro",11,"Other: PR",NA,NA
-"RO",4,"prtvtaro",12,"Other: PIN",NA,NA
-"RO",4,"prtvtaro",13,"Other: FDGR",NA,NA
-"RO",4,"prtvtaro",66,"Not applicable",NA,NA
-"RO",4,"prtvtaro",77,"Refusal",NA,NA
-"RO",4,"prtvtaro",88,"Don't know",NA,NA
-"RO",4,"prtvtaro",99,"No answer",NA,NA
-"SK",9,"prtvtdsk",1,"Obyčajní Ľudia a nezávislé osobnosti",2130,"OLaNO"
-"SK",9,"prtvtdsk",2,"Slovenská národná strana (SNS)",730,"SNS"
-"SK",9,"prtvtdsk",3,"Smer – SD",311,"Smer"
-"SK",9,"prtvtdsk",4,"Most–H d",258,"MH"
-"SK",9,"prtvtdsk",5,"ĽS Naše Slovensko",656,"LsNS"
-"SK",9,"prtvtdsk",6,"Sloboda a Solidarita (SaS)",1386,"SaS"
-"SK",9,"prtvtdsk",7,"Sieť",4872,"S"
-"SK",9,"prtvtdsk",8,"SME Rodina",4873,"SR"
-"SK",9,"prtvtdsk",9,"Other",NA,NA
-"ES",9,"prtvtees",1,"PP",441,"AP-P"
-"ES",9,"prtvtees",2,"PSOE",1338,"PSOE"
-"ES",9,"prtvtees",3,"Unidas Podemos",7656,"UP"
-"ES",9,"prtvtees",4,"Podemos",3203,"P"
-"ES",9,"prtvtees",5,"Ciudadanos",3217,"Cs"
-"ES",9,"prtvtees",6,"IU",247,"PCE|IU"
-"ES",9,"prtvtees",7,"En Comú Podem",8031,"ECP"
-"ES",9,"prtvtees",8,"Más País",8395,NA
-"ES",9,"prtvtees",9,"Compromís",5623,NA
-"ES",9,"prtvtees",10,"ERC",848,"ERC"
-"ES",9,"prtvtees",11,"Junts per Catalunya/PDeCAT",7421,NA
-"ES",9,"prtvtees",12,"Bloque Nacionalista Galego",1011,"BNG"
-"ES",9,"prtvtees",13,"EAJ-PNV",1637,"PNV"
-"ES",9,"prtvtees",14,"EH-Bildu",5668,"EHB"
-"ES",9,"prtvtees",15,"CC-PNC",NA,NA
-"ES",9,"prtvtees",16,"VOX",3218,"Vox"
-"ES",9,"prtvtees",17,"Navarra Suma",NA,NA
-"ES",9,"prtvtees",18,"PACMA",3219,"PACMA"
-"ES",9,"prtvtees",19,"CUP",8357,"CUP"
-"ES",9,"prtvtees",20,"PRC",NA,NA
-"ES",9,"prtvtees",53,"Other",NA,NA
-"ES",9,"prtvtees",54,"Blank vote",NA,NA
-"ES",9,"prtvtees",55,"Invalid vote",NA,NA
-"DE",9,"prtvede2",1,"Christian Democratic Union/Christian Social Union (CDU/CSU)",211,"CDU+CSU"
-"DE",9,"prtvede2",2,"Social Democratic Party (SPD)",383,"SPD"
-"DE",9,"prtvede2",3,"The Left (Die Linke)",1545,"PDS|Li"
-"DE",9,"prtvede2",4,"Alliance 90/The Greens (Bündnis 90/Die Grünen)",1816,"B90/Gru"
-"DE",9,"prtvede2",5,"Free Democratic Party (FDP)",573,"FDP"
-"DE",9,"prtvede2",6,"Alternative for Germany (AFD)",1976,"AfD"
-"DE",9,"prtvede2",7,"Pirate Party (Piratenpartei)",1287,"Pi"
-"DE",9,"prtvede2",8,"National Democratic Party (NPD)",1723,"NPD"
-"DE",9,"prtvede2",9,"Other",NA,NA
-"DE",2,"prtvade2",1,"Social Democratic Party (SPD) ",383,"SPD"
-"DE",2,"prtvade2",2,"Christian Democratic Union (CDU/CSU) ",211,"CDU+CSU"
-"DE",2,"prtvade2",3,"Green Party (Bündnis 90/Die Grünen) ",1816,"B90/Gru"
-"DE",2,"prtvade2",4,"Liberal Democratic Party (FDP) ",573,"FDP"
-"DE",2,"prtvade2",5,"Party of Democratic Socialism (PDS) ",86,NA
-"DE",2,"prtvade2",6,"Republican Party (Republikaner) ",720,"Rep"
-"DE",2,"prtvade2",7,"National Democratic Party/German People's Union (NPD/DVU) ",NA,NA
-"DE",2,"prtvade2",8,"Other ",NA,NA
-"DE",2,"prtvade2",66,"Not applicable ",NA,NA
-"DE",2,"prtvade2",77,"Refusal ",NA,NA
-"DE",2,"prtvade2",88,"Don't know ",NA,NA
-"DE",2,"prtvade2",99,"No answer ",NA,NA
-"DE",5,"prtvcde2",1,"SPD ",383,"SPD"
-"DE",5,"prtvcde2",2,"CDU\CSU ",211,"CDU+CSU"
-"DE",5,"prtvcde2",3,"Bündnis90\Die Grünen ",1816,"B90/Gru"
-"DE",5,"prtvcde2",4,"FPD ",573,"FDP"
-"DE",5,"prtvcde2",5,"Die Linke\PDS ",1545,"PDS|Li"
-"DE",5,"prtvcde2",6,"Die Republikaner ",720,"Rep"
-"DE",5,"prtvcde2",7,"NPD ",1723,"NPD"
-"DE",5,"prtvcde2",8,"Andere Partei ",NA,NA
-"DE",5,"prtvcde2",66,"Not applicable ",NA,NA
-"DE",5,"prtvcde2",77,"Refusal ",NA,NA
-"DE",5,"prtvcde2",88,"Don't know ",NA,NA
-"DE",5,"prtvcde2",99,"No answer ",NA,NA
-"DE",4,"prtvbde2",1,"Social Democratic Party (SPD)",383,"SPD"
-"DE",4,"prtvbde2",2,"Christian Democratic Union (CDU/CSU)",211,"CDU+CSU"
-"DE",4,"prtvbde2",3,"Green Party (Bündnis 90/Die Grünen)",1816,"B90/Gru"
-"DE",4,"prtvbde2",4,"Liberal Democratic Party (FDP)",573,"FDP"
-"DE",4,"prtvbde2",5,"The Left Party.Party of Democratic Socialism (Linkspartei.PDS)",86,NA
-"DE",4,"prtvbde2",6,"Republican Party (Republikaner)",720,"Rep"
-"DE",4,"prtvbde2",7,"National Democratic Party/German People's Union (NPD/DVU)",NA,NA
-"DE",4,"prtvbde2",8,"Other party",NA,NA
-"DE",4,"prtvbde2",66,"Not applicable ",NA,NA
-"DE",4,"prtvbde2",77,"Refusal ",NA,NA
-"DE",4,"prtvbde2",88,"Don't know ",NA,NA
-"DE",4,"prtvbde2",99,"No answer ",NA,NA
-"DE",1,"prtvde2",1,"SPD ",383,"SPD"
-"DE",1,"prtvde2",2,"CDU/CSU",211,"CDU+CSU"
-"DE",1,"prtvde2",3,"Bündnis90\Die Grünen ",1816,"B90/Gru"
-"DE",1,"prtvde2",4,"FDP",573,"FDP"
-"DE",1,"prtvde2",5,"PDS",1545,"PDS|Li"
-"DE",1,"prtvde2",6,"Republican Party (Republikaner)",720,"Rep"
-"DE",1,"prtvde2",7,"Andere Partei ",NA,NA
-"DE",1,"prtvde2",66,"Not applicable ",NA,NA
-"DE",1,"prtvde2",77,"Refusal ",NA,NA
-"DE",1,"prtvde2",88,"Don't know ",NA,NA
-"DE",1,"prtvde2",99,"No answer ",NA,NA
-"DE",3,"prtvbde2",1,"Social Democratic Party (SPD)",383,"SPD"
-"DE",3,"prtvbde2",2,"Christian Democratic Union (CDU/CSU)",211,"CDU+CSU"
-"DE",3,"prtvbde2",3,"Green Party (Bündnis 90/Die Grünen)",1816,"B90/Gru"
-"DE",3,"prtvbde2",4,"Liberal Democratic Party (FDP)",573,"FDP"
-"DE",3,"prtvbde2",5,"The Left Party.Party of Democratic Socialism (Linkspartei.PDS)",86,NA
-"DE",3,"prtvbde2",6,"Republican Party (Republikaner)",720,"Rep"
-"DE",3,"prtvbde2",7,"National Democratic Party/German People's Union (NPD/DVU)",NA,NA
-"DE",3,"prtvbde2",8,"Other party",NA,NA
-"DE",3,"prtvbde2",66,"Not applicable ",NA,NA
-"DE",3,"prtvbde2",77,"Refusal ",NA,NA
-"DE",3,"prtvbde2",88,"Don't know ",NA,NA
-"DE",3,"prtvbde2",99,"No answer ",NA,NA
-"DE",6,"prtvdde2",1,"SPD ",383,"SPD"
-"DE",6,"prtvdde2",2,"CDU/CSU",211,"CDU+CSU"
-"DE",6,"prtvdde2",3,"Bündnis90\Die Grünen ",1816,"B90/Gru"
-"DE",6,"prtvdde2",4,"FDP",573,"FDP"
-"DE",6,"prtvdde2",5,"Die Linke",1545,"PDS|Li"
-"DE",6,"prtvdde2",6,"Die Republikaner ",720,"Rep"
-"DE",6,"prtvdde2",7,"NPD ",1723,"NPD"
-"DE",6,"prtvdde2",8,"Piratenpartei",1287,"Pi"
-"DE",6,"prtvdde2",9,"Andere Partei ",NA,NA
-"DE",6,"prtvdde2",66,"Not applicable ",NA,NA
-"DE",6,"prtvdde2",77,"Refusal ",NA,NA
-"DE",6,"prtvdde2",88,"Don't know ",NA,NA
-"DE",6,"prtvdde2",99,"No answer ",NA,NA
-"DE",7,"prtvede2",1,"CDU/CSU",211,"CDU+CSU"
-"DE",7,"prtvede2",2,"SPD ",383,"SPD"
-"DE",7,"prtvede2",3,"Die Linke",1545,"PDS|Li"
-"DE",7,"prtvede2",4,"Bündnis90\Die Grünen ",1816,"B90/Gru"
-"DE",7,"prtvede2",5,"FDP",573,"FDP"
-"DE",7,"prtvede2",6,"AfD",1976,"AfD"
-"DE",7,"prtvede2",7,"Piratenpartei",1287,"Pi"
-"DE",7,"prtvede2",8,"NPD ",1723,"NPD"
-"DE",7,"prtvede2",9,"Andere Partei ",NA,NA
-"DE",7,"prtvede2",66,"Not applicable ",NA,NA
-"DE",7,"prtvede2",77,"Refusal ",NA,NA
-"DE",7,"prtvede2",88,"Don't know ",NA,NA
-"DE",7,"prtvede2",99,"No answer ",NA,NA
-"DE",8,"prtvede2",1,"Christian Democratic Union/Christian Social Union (CDU/CSU)",211,"CDU+CSU"
-"DE",8,"prtvede2",2,"Social Democratic Party (SPD)",383,"SPD"
-"DE",8,"prtvede2",3,"The Left (Die Linke)",1545,"PDS|Li"
-"DE",8,"prtvede2",4,"Alliance 90/The Greens (Bündnis 90/Die Grünen)",1816,"B90/Gru"
-"DE",8,"prtvede2",5,"Free Democratic Party (FDP)",573,"FDP"
-"DE",8,"prtvede2",6,"Alternative for Germany (AFD)",1976,"AfD"
-"DE",8,"prtvede2",7,"Pirate Party (Piratenpartei)",1287,"Pi"
-"DE",8,"prtvede2",8,"National Democratic Party (NPD)",1723,"NPD"
-"DE",8,"prtvede2",9,"Other",NA,NA
-"AT",4,"prtvtaat",1,"SPÖ",1384,"SPO"
-"AT",4,"prtvtaat",2,"ÖVP",1329,"OVP"
-"AT",4,"prtvtaat",3,"FPÖ",463,"FPO"
-"AT",4,"prtvtaat",4,"BZÖ",599,"BZO"
-"AT",4,"prtvtaat",5,"Grüne",1659,"Gruene"
-"AT",4,"prtvtaat",6,"LIF",605,"LIF"
-"AT",4,"prtvtaat",7,"KPÖ",996,"KPO"
-"AT",4,"prtvtaat",8,"Andere",NA,NA
-"AT",4,"prtvtaat",77,"Refusal",NA,NA
-"AT",4,"prtvtaat",88,"Don't know",NA,NA
-"IT",2,"prtvtait",1,"Democratici di sinistra",878,"DS"
-"IT",2,"prtvtait",2,"La Margherita",279,"DL-M"
-"IT",2,"prtvtait",3,"Comunisti Italiani",1635,"PdCI"
-"IT",2,"prtvtait",4,"Verdi e SDI (Girasole)",1782,NA
-"IT",2,"prtvtait",6,"SVP (Sudtirol Volkspartei – Partito Popolare Sudtirolese)",1369,"SVP"
-"IT",2,"prtvtait",7,"Rifondazione Comunista",1404,"PRC"
-"IT",2,"prtvtait",8,"Forza Italia",1626,"FI-PdL"
-"IT",2,"prtvtait",9,"Alleanza Nazionale",813,"AN"
-"IT",2,"prtvtait",10,"CCD-CDU",962,"CCD+CDU"
-"IT",2,"prtvtait",11,"Lega Nord",1221,"LN"
-"IT",2,"prtvtait",12,"Nuovo PSI",888,"NPSI"
-"IT",2,"prtvtait",13,"Lista di Pietro",768,"IdV"
-"IT",2,"prtvtait",14,"Democrazia Europea",1327,"DE"
-"IT",2,"prtvtait",15,"Pannella-Bonino",2134,NA
-"IT",2,"prtvtait",16,"Fiamma Tricolore",1101,"MSFT"
-"IT",2,"prtvtait",17,"Other",NA,NA
-"IT",2,"prtvtait",70,"Not applicable ",NA,NA
-"IT",2,"prtvtait",77,"Refusal",NA,NA
-"IT",2,"prtvtait",88,"Don't know",NA,NA
-"LT",4,"prtvlt1",1,"Lietuvos socialdemokratų partija",64,"LSDP"
-"LT",4,"prtvlt1",1,"Lietuvos socialdemokratų partija",64,"LSDP-89"
-"LT",4,"prtvlt1",2,"Lietuvos rusų sąjunga",168,"LRS"
-"LT",4,"prtvlt1",3,"„Fronto“ partija",1250,"SPF"
-"LT",4,"prtvlt1",4,"Lietuvos centro partija",5455,"LCP"
-"LT",4,"prtvlt1",5,"Tėvynės sąjunga – Lietuvos krikščionys demokratai",193,"TS-LK"
-"LT",4,"prtvlt1",6,"Naujoji sąjunga (socialliberalai)",1800,"NS-SL"
-"LT",4,"prtvlt1",7,"Pilietinės demokratijos partija",105,"PDP"
-"LT",4,"prtvlt1",8,"Lietuvos lenkų rinkimų akcija",556,"LLRA"
-"LT",4,"prtvlt1",9,"Tautos prisikėlimo partija",347,"TPP"
-"LT",4,"prtvlt1",10,"Koalicija Darbo partija + jaunimas",8279,NA
-"LT",4,"prtvlt1",11,"Lietuvos Respublikos liberalų sąjūdis",1744,"LRLS"
-"LT",4,"prtvlt1",12,"Lietuvos valstiečių liaudininkų sąjunga",1490,"LVLS"
-"LT",4,"prtvlt1",13,"Partija Tvarka ir teisingumas",237,"TT-LDP"
-"LT",4,"prtvlt1",14,"Liberalų ir centro sąjunga",1193,"LiCS"
-"LT",4,"prtvlt1",15,"Partija „Jaunoji Lietuva“",1026,"JL"
-"LT",4,"prtvlt1",16,"Lietuvos socialdemokratų sąjunga",8258,NA
-"LT",4,"prtvlt1",77,"Atsisakė nurodyti",NA,NA
-"LT",4,"prtvlt1",88,"Nežino",NA,NA
